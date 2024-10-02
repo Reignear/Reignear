@@ -1,6 +1,8 @@
 ## Hi there 👋
+<div align="center">
+  <img src="https://giffiles.alphacoders.com/483/48368.gif" style="width: 100%" />
+</div>
 
-<!--
 **Reignear/Reignear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
