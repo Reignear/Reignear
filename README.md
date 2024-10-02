@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-  <img src[="https://wallpaperaccess.com/full/849790.gif" style="width: 100%" />
+  <img src="https://wallpaperaccess.com/full/849790.gif" style="width: 100%" />
 </div>
 
 **Reignear/Reignear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
