@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/483/48368.gif" style="width: 100%" />
+  <img src[="https://giffiles.alphacoders.com/483/48368.gif](https://s0.2mdn.net/simgad/11230703513468600142)" style="width: 100%" />
 </div>
 
 **Reignear/Reignear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
