@@ -1,6 +1,10 @@
-<h1 align="center">Hey 👋What's Up? It's me Reign!</h1>
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFFF&size=25&width=600&lines=Hi+👋,+I'm+Reignear;An+Aspiring+Software+Developer+🐱;Computer+Science+Student+🧑‍💻;)](https://git.io/typing-svg)
+   
 
-###
+<div align="center">
+  <img src="https://i.pinimg.com/originals/0b/1d/fc/0b1dfc8ebe6f365f4208cb0cff5c46c9.gif" style="width: 100%" />
+</div>
+ 
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
@@ -59,10 +63,12 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Reignear&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Reignear&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Reignear&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Reignear&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<img src="https://streak-stats.demolab.com?user=Reignear&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&background=0D1117&ring=03C988&fire=03C988&currStreakLabel=96E9C6&sideLabels=83C0C1&sideNums=96E9C6&dates=FFFFFF" height="192px" width="49.5%" alt="streak graph" />
+
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Reignear&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1theme=react&border_color=03C988&bg_color=0D1117&title_color=96E9C6&icon_color=83C0C1" height="192px" width="49.5%" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Reignear&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2theme=react&border_color=03C988&bg_color=0D1117&title_color=96E9C6&icon_color=83C0C1" height="192px" width="49.5%" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Reignear&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4theme=dracula&border_color=03C988&bg_color=0D1117&title_color=96E9C6&icon_color=83C0C1" height="150" alt="trophy graph"  />
 </div>
 
 ###
